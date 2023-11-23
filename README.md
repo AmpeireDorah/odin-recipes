@@ -1,2 +1,2 @@
 # odin-recipes
-hello
+hello this is my simple recipes website
